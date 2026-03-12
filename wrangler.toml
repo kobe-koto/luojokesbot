@@ -12,8 +12,8 @@ traces.enabled = true
 
 [[d1_databases]]
 binding = "DB"
-database_id = "038cca91-b6d2-468c-91e0-a7e859cb30ee"
-database_name = "inline"
+database_id = "a500a82a-8339-47bb-9d52-7e23ac022dca"
+database_name = "luojokesbot_db"
 
 [vars.BOT_INFO]
 id = 8233852686
