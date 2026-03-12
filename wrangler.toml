@@ -6,10 +6,6 @@ minify = true
 upload_source_maps = true
 workers_dev = false
 
-[observability]
-enabled = true
-traces.enabled = true
-
 [[d1_databases]]
 binding = "DB"
 database_id = "a500a82a-8339-47bb-9d52-7e23ac022dca"
